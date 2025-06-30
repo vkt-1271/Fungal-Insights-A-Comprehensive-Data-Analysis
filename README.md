@@ -21,7 +21,8 @@ This project focuses on building a machine learning model that predicts whether 
 
 - Logistic Regression  
 - K-Nearest Neighbors (KNN)  
-- Naive Bayes  
+- Naive Bayes
+- Decision Tree  
 
 The models were trained on label-encoded data, and the best-performing model achieved **high accuracy** in predicting whether a mushroom is edible or poisonous.
 
